@@ -1,0 +1,32 @@
+{
+  "Country": "VE",
+  "Riders": [
+    {
+      "name": "Carlos Lavado",
+      "Victories": "19",
+      "NumberofSecond": "16",
+      "NumberofThird": "14",
+      "Numberof4th": "13",
+      "Numberof5th": "13",
+      "Numberof6th": "12"
+    },
+    {
+      "name": "Johnny Cecotto",
+      "Victories": "14",
+      "NumberofSecond": "13",
+      "NumberofThird": "12",
+      "Numberof4th": "11",
+      "Numberof5th": "11",
+      "Numberof6th": "10"
+    },
+    {
+      "name": "Ivan Palazzese",
+      "Victories": "2",
+      "NumberofSecond": "4",
+      "NumberofThird": "4",
+      "Numberof4th": "4",
+      "Numberof5th": "4",
+      "Numberof6th": "4"
+    }
+  ]
+}

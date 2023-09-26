@@ -1,0 +1,68 @@
+{
+  "Country": "NZ",
+  "Riders": [
+    {
+      "name": "Hugh Anderson",
+      "Victories": "25",
+      "NumberofSecond": "22",
+      "NumberofThird": "17",
+      "Numberof4th": "16",
+      "Numberof5th": "15",
+      "Numberof6th": "14"
+    },
+    {
+      "name": "Rod Coleman",
+      "Victories": "1",
+      "NumberofSecond": "3",
+      "NumberofThird": "4",
+      "Numberof4th": "4",
+      "Numberof5th": "4",
+      "Numberof6th": "4"
+    },
+    {
+      "name": "Ginger Molloy",
+      "Victories": "1",
+      "NumberofSecond": "3",
+      "NumberofThird": "3",
+      "Numberof4th": "3",
+      "Numberof5th": "4",
+      "Numberof6th": "4"
+    },
+    {
+      "name": "Simon Crafar",
+      "Victories": "1",
+      "NumberofSecond": "2",
+      "NumberofThird": "3",
+      "Numberof4th": "3",
+      "Numberof5th": "3",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Ken Mudford",
+      "Victories": "1",
+      "NumberofSecond": "2",
+      "NumberofThird": "3",
+      "Numberof4th": "3",
+      "Numberof5th": "3",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Kim Newcombe",
+      "Victories": "1",
+      "NumberofSecond": "1",
+      "NumberofThird": "2",
+      "Numberof4th": "2",
+      "Numberof5th": "2",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Dennis Ireland",
+      "Victories": "1",
+      "NumberofSecond": "1",
+      "NumberofThird": "2",
+      "Numberof4th": "2",
+      "Numberof5th": "2",
+      "Numberof6th": "3"
+    }
+  ]
+}

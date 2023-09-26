@@ -1,0 +1,185 @@
+{
+  "Country": "AU",
+  "Riders": [
+    {
+      "name": "Mick Doohan",
+      "Victories": "54",
+      "NumberofSecond": "36",
+      "NumberofThird": "27",
+      "Numberof4th": "24",
+      "Numberof5th": "22",
+      "Numberof6th": "19"
+    },
+    {
+      "name": "Casey Stoner",
+      "Victories": "45",
+      "NumberofSecond": "35",
+      "NumberofThird": "25",
+      "Numberof4th": "21",
+      "Numberof5th": "20",
+      "Numberof6th": "17"
+    },
+    {
+      "name": "Wayne Gardner",
+      "Victories": "18",
+      "NumberofSecond": "16",
+      "NumberofThird": "14",
+      "Numberof4th": "12",
+      "Numberof5th": "12",
+      "Numberof6th": "12"
+    },
+    {
+      "name": "Greg Hansford",
+      "Victories": "10",
+      "NumberofSecond": "10",
+      "NumberofThird": "10",
+      "Numberof4th": "10",
+      "Numberof5th": "9",
+      "Numberof6th": "9"
+    },
+    {
+      "name": "Jack Miller",
+      "Victories": "9",
+      "NumberofSecond": "10",
+      "NumberofThird": "10",
+      "Numberof4th": "9",
+      "Numberof5th": "9",
+      "Numberof6th": "8"
+    },
+    {
+      "name": "Kel Carruthers",
+      "Victories": "7",
+      "NumberofSecond": "9",
+      "NumberofThird": "9",
+      "Numberof4th": "9",
+      "Numberof5th": "7",
+      "Numberof6th": "7"
+    },
+    {
+      "name": "Remy Gardner",
+      "Victories": "6",
+      "NumberofSecond": "8",
+      "NumberofThird": "8",
+      "Numberof4th": "8",
+      "Numberof5th": "7",
+      "Numberof6th": "7"
+    },
+    {
+      "name": "Tom Phillis",
+      "Victories": "6",
+      "NumberofSecond": "7",
+      "NumberofThird": "8",
+      "Numberof4th": "8",
+      "Numberof5th": "7",
+      "Numberof6th": "7"
+    },
+    {
+      "name": "Garry Mccoy",
+      "Victories": "5",
+      "NumberofSecond": "7",
+      "NumberofThird": "7",
+      "Numberof4th": "7",
+      "Numberof5th": "7",
+      "Numberof6th": "7"
+    },
+    {
+      "name": "Ken Kavanagh",
+      "Victories": "5",
+      "NumberofSecond": "6",
+      "NumberofThird": "6",
+      "Numberof4th": "7",
+      "Numberof5th": "6",
+      "Numberof6th": "6"
+    },
+    {
+      "name": "John Dodds",
+      "Victories": "4",
+      "NumberofSecond": "5",
+      "NumberofThird": "6",
+      "Numberof4th": "6",
+      "Numberof5th": "6",
+      "Numberof6th": "5"
+    },
+    {
+      "name": "Barry Smith",
+      "Victories": "4",
+      "NumberofSecond": "5",
+      "NumberofThird": "6",
+      "Numberof4th": "6",
+      "Numberof5th": "5",
+      "Numberof6th": "5"
+    },
+    {
+      "name": "Daryl Beattie",
+      "Victories": "3",
+      "NumberofSecond": "4",
+      "NumberofThird": "5",
+      "Numberof4th": "5",
+      "Numberof5th": "5",
+      "Numberof6th": "5"
+    },
+    {
+      "name": "Jack Findlay",
+      "Victories": "3",
+      "NumberofSecond": "4",
+      "NumberofThird": "5",
+      "Numberof4th": "5",
+      "Numberof5th": "5",
+      "Numberof6th": "5"
+    },
+    {
+      "name": "Keith Campbell",
+      "Victories": "3",
+      "NumberofSecond": "4",
+      "NumberofThird": "4",
+      "Numberof4th": "5",
+      "Numberof5th": "5",
+      "Numberof6th": "4"
+    },
+    {
+      "name": "Anthony West",
+      "Victories": "2",
+      "NumberofSecond": "3",
+      "NumberofThird": "4",
+      "Numberof4th": "4",
+      "Numberof5th": "4",
+      "Numberof6th": "4"
+    },
+    {
+      "name": "Kevin Magee",
+      "Victories": "1",
+      "NumberofSecond": "2",
+      "NumberofThird": "3",
+      "Numberof4th": "3",
+      "Numberof5th": "3",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Troy Bayliss",
+      "Victories": "1",
+      "NumberofSecond": "2",
+      "NumberofThird": "2",
+      "Numberof4th": "3",
+      "Numberof5th": "3",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Chris Vermeulen",
+      "Victories": "1",
+      "NumberofSecond": "2",
+      "NumberofThird": "2",
+      "Numberof4th": "2",
+      "Numberof5th": "3",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Jack Ahearn",
+      "Victories": "1",
+      "NumberofSecond": "1",
+      "NumberofThird": "2",
+      "Numberof4th": "2",
+      "Numberof5th": "2",
+      "Numberof6th": "3"
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "Country": "JP",
+  "Riders": [
+    {
+      "name": "Daijiro Kato",
+      "Victories": "17",
+      "NumberofSecond": "15",
+      "NumberofThird": "14",
+      "Numberof4th": "12",
+      "Numberof5th": "12",
+      "Numberof6th": "12"
+    },
+    {
+      "name": "Tetsuya Harada",
+      "Victories": "17",
+      "NumberofSecond": "15",
+      "NumberofThird": "13",
+      "Numberof4th": "12",
+      "Numberof5th": "12",
+      "Numberof6th": "11"
+    },
+    {
+      "name": "Noboru Ueda",
+      "Victories": "13",
+      "NumberofSecond": "13",
+      "NumberofThird": "12",
+      "Numberof4th": "11",
+      "Numberof5th": "10",
+      "Numberof6th": "10"
+    },
+    {
+      "name": "Kazuto Sakata",
+      "Victories": "11",
+      "NumberofSecond": "12",
+      "NumberofThird": "11",
+      "Numberof4th": "10",
+      "Numberof5th": "9",
+      "Numberof6th": "9"
+    },
+    {
+      "name": "Youichi Ui",
+      "Victories": "11",
+      "NumberofSecond": "11",
+      "NumberofThird": "11",
+      "Numberof4th": "10",
+      "Numberof5th": "9",
+      "Numberof6th": "9"
+    },
+    {
+      "name": "Takazumi Katayama",
+      "Victories": "11",
+      "NumberofSecond": "11",
+      "NumberofThird": "11",
+      "Numberof4th": "10",
+      "Numberof5th": "9",
+      "Numberof6th": "9"
+    },
+    {
+      "name": "Masao Azuma",
+      "Victories": "10",
+      "NumberofSecond": "11",
+      "NumberofThird": "10",
+      "Numberof4th": "10",
+      "Numberof5th": "9",
+      "Numberof6th": "9"
+    },
+    {
+      "name": "Haruchika Aoki",
+      "Victories": "9",
+      "NumberofSecond": "10",
+      "NumberofThird": "10",
+      "Numberof4th": "9",
+      "Numberof5th": "9",
+      "Numberof6th": "8"
+    },
+    {
+      "name": "Hiroshi Aoyama",
+      "Victories": "9",
+      "NumberofSecond": "10",
+      "NumberofThird": "10",
+      "Numberof4th": "9",
+      "Numberof5th": "9",
+      "Numberof6th": "8"
+    },
+    {
+      "name": "Shinya Nakano",
+      "Victories": "6",
+      "NumberofSecond": "8",
+      "NumberofThird": "8",
+      "Numberof4th": "8",
+      "Numberof5th": "7",
+      "Numberof6th": "7"
+    },
+    {
+      "name": "Tadayuki Okada",
+      "Victories": "6",
+      "NumberofSecond": "7",
+      "NumberofThird": "8",
+      "Numberof4th": "8",
+      "Numberof5th": "7",
+      "Numberof6th": "7"
+    },
+    {
+      "name": "Tomomi Manako",
+      "Victories": "6",
+      "NumberofSecond": "7",
+      "NumberofThird": "7",
+      "Numberof4th": "8",
+      "Numberof5th": "7",
+      "Numberof6th": "7"
+    },
+    {
+      "name": "Masaki Tokudome",
+      "Victories": "5",
+      "NumberofSecond": "7",
+      "NumberofThird": "7",
+      "Numberof4th": "7",
+      "Numberof5th": "7",
+      "Numberof6th": "6"
+    },
+    {
+      "name": "Tohru Ukawa",
+      "Victories": "5",
+      "NumberofSecond": "7",
+      "NumberofThird": "7",
+      "Numberof4th": "7",
+      "Numberof5th": "6",
+      "Numberof6th": "6"
+    },
+    {
+      "name": "Takeshi Tsujimura",
+      "Victories": "5",
+      "NumberofSecond": "6",
+      "NumberofThird": "7",
+      "Numberof4th": "7",
+      "Numberof5th": "6",
+      "Numberof6th": "6"
+    },
+    {
+      "name": "Yoshimi Katayama",
+      "Victories": "4",
+      "NumberofSecond": "6",
+      "NumberofThird": "6",
+      "Numberof4th": "6",
+      "Numberof5th": "6",
+      "Numberof6th": "6"
+    },
+    {
+      "name": "Kuninitsu Takahashi",
+      "Victories": "4",
+      "NumberofSecond": "5",
+      "NumberofThird": "6",
+      "Numberof4th": "6",
+      "Numberof5th": "5",
+      "Numberof6th": "5"
+    },
+    {
+      "name": "Norick Abe",
+      "Victories": "3",
+      "NumberofSecond": "5",
+      "NumberofThird": "6",
+      "Numberof4th": "6",
+      "Numberof5th": "5",
+      "Numberof6th": "5"
+    },
+    {
+      "name": "Yuki Takahashi",
+      "Victories": "3",
+      "NumberofSecond": "4",
+      "NumberofThird": "5",
+      "Numberof4th": "5",
+      "Numberof5th": "5",
+      "Numberof6th": "5"
+    },
+    {
+      "name": "Hideo Kanaya",
+      "Victories": "3",
+      "NumberofSecond": "4",
+      "NumberofThird": "5",
+      "Numberof4th": "5",
+      "Numberof5th": "5",
+      "Numberof6th": "5"
+    },
+    {
+      "name": "Tatsuki Suzuki",
+      "Victories": "2",
+      "NumberofSecond": "4",
+      "NumberofThird": "4",
+      "Numberof4th": "4",
+      "Numberof5th": "4",
+      "Numberof6th": "4"
+    },
+    {
+      "name": "Takaaki Nakagami",
+      "Victories": "2",
+      "NumberofSecond": "3",
+      "NumberofThird": "4",
+      "Numberof4th": "4",
+      "Numberof5th": "4",
+      "Numberof6th": "4"
+    },
+    {
+      "name": "Makoto Tamada",
+      "Victories": "2",
+      "NumberofSecond": "3",
+      "NumberofThird": "4",
+      "Numberof4th": "4",
+      "Numberof5th": "4",
+      "Numberof6th": "4"
+    },
+    {
+      "name": "Mitsuo Itoh",
+      "Victories": "2",
+      "NumberofSecond": "3",
+      "NumberofThird": "4",
+      "Numberof4th": "4",
+      "Numberof5th": "4",
+      "Numberof6th": "4"
+    },
+    {
+      "name": "Kenjiro Tanaka",
+      "Victories": "1",
+      "NumberofSecond": "3",
+      "NumberofThird": "3",
+      "Numberof4th": "4",
+      "Numberof5th": "4",
+      "Numberof6th": "4"
+    },
+    {
+      "name": "Nobuatsu Aoki",
+      "Victories": "1",
+      "NumberofSecond": "3",
+      "NumberofThird": "3",
+      "Numberof4th": "3",
+      "Numberof5th": "4",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Isao Morishita",
+      "Victories": "1",
+      "NumberofSecond": "2",
+      "NumberofThird": "3",
+      "Numberof4th": "3",
+      "Numberof5th": "3",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Osamu Miyazaki",
+      "Victories": "1",
+      "NumberofSecond": "2",
+      "NumberofThird": "3",
+      "Numberof4th": "3",
+      "Numberof5th": "3",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Kaito Toba",
+      "Victories": "1",
+      "NumberofSecond": "2",
+      "NumberofThird": "3",
+      "Numberof4th": "3",
+      "Numberof5th": "3",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Horoshi Hasegawa",
+      "Victories": "1",
+      "NumberofSecond": "2",
+      "NumberofThird": "2",
+      "Numberof4th": "3",
+      "Numberof5th": "3",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Tadahiko Taira",
+      "Victories": "1",
+      "NumberofSecond": "2",
+      "NumberofThird": "2",
+      "Numberof4th": "3",
+      "Numberof5th": "3",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Shoya Tomizawa",
+      "Victories": "1",
+      "NumberofSecond": "2",
+      "NumberofThird": "2",
+      "Numberof4th": "3",
+      "Numberof5th": "3",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Masaru Kobayashi",
+      "Victories": "1",
+      "NumberofSecond": "2",
+      "NumberofThird": "2",
+      "Numberof4th": "2",
+      "Numberof5th": "3",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Tomoyoshi Koyama",
+      "Victories": "1",
+      "NumberofSecond": "2",
+      "NumberofThird": "2",
+      "Numberof4th": "2",
+      "Numberof5th": "3",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Fumio Ito",
+      "Victories": "1",
+      "NumberofSecond": "1",
+      "NumberofThird": "2",
+      "Numberof4th": "2",
+      "Numberof5th": "3",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Tetsuta Nagashima",
+      "Victories": "1",
+      "NumberofSecond": "1",
+      "NumberofThird": "2",
+      "Numberof4th": "2",
+      "Numberof5th": "2",
+      "Numberof6th": "2"
+    }
+  ]
+}

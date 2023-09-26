@@ -1,0 +1,50 @@
+{
+  "Country": "FI",
+  "Riders": [
+    {
+      "name": "Mika Kallio",
+      "Victories": "16",
+      "NumberofSecond": "15",
+      "NumberofThird": "13",
+      "Numberof4th": "12",
+      "Numberof5th": "12",
+      "Numberof6th": "11"
+    },
+    {
+      "name": "Jarno Saarinen",
+      "Victories": "15",
+      "NumberofSecond": "14",
+      "NumberofThird": "13",
+      "Numberof4th": "11",
+      "Numberof5th": "11",
+      "Numberof6th": "11"
+    },
+    {
+      "name": "Teuvo Lansivuori",
+      "Victories": "8",
+      "NumberofSecond": "10",
+      "NumberofThird": "9",
+      "Numberof4th": "9",
+      "Numberof5th": "8",
+      "Numberof6th": "8"
+    },
+    {
+      "name": "Niki Tuuli",
+      "Victories": "2",
+      "NumberofSecond": "3",
+      "NumberofThird": "4",
+      "Numberof4th": "4",
+      "Numberof5th": "4",
+      "Numberof6th": "4"
+    },
+    {
+      "name": "Pentti Korhonen",
+      "Victories": "1",
+      "NumberofSecond": "2",
+      "NumberofThird": "3",
+      "Numberof4th": "3",
+      "Numberof5th": "3",
+      "Numberof6th": "3"
+    }
+  ]
+}

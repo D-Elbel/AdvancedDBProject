@@ -1,0 +1,14 @@
+{
+  "Country": "PT",
+  "Riders": [
+    {
+      "name": "Miguel Oliveira",
+      "Victories": "16",
+      "NumberofSecond": "15",
+      "NumberofThird": "13",
+      "Numberof4th": "12",
+      "Numberof5th": "12",
+      "Numberof6th": "11"
+    }
+  ]
+}

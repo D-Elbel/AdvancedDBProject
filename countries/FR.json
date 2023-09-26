@@ -1,0 +1,230 @@
+{
+  "Country": "FR",
+  "Riders": [
+    {
+      "name": "Johann Zarco",
+      "Victories": "16",
+      "NumberofSecond": "14",
+      "NumberofThird": "13",
+      "Numberof4th": "11",
+      "Numberof5th": "12",
+      "Numberof6th": "11"
+    },
+    {
+      "name": "Fabio Quartararo",
+      "Victories": "10",
+      "NumberofSecond": "11",
+      "NumberofThird": "11",
+      "Numberof4th": "10",
+      "Numberof5th": "9",
+      "Numberof6th": "9"
+    },
+    {
+      "name": "Christian Sarron",
+      "Victories": "7",
+      "NumberofSecond": "9",
+      "NumberofThird": "9",
+      "Numberof4th": "9",
+      "Numberof5th": "8",
+      "Numberof6th": "8"
+    },
+    {
+      "name": "Olivier Jacque",
+      "Victories": "7",
+      "NumberofSecond": "8",
+      "NumberofThird": "9",
+      "Numberof4th": "8",
+      "Numberof5th": "7",
+      "Numberof6th": "7"
+    },
+    {
+      "name": "Arnaud Vincent",
+      "Victories": "7",
+      "NumberofSecond": "8",
+      "NumberofThird": "8",
+      "Numberof4th": "8",
+      "Numberof5th": "7",
+      "Numberof6th": "7"
+    },
+    {
+      "name": "Guy Bertin",
+      "Victories": "6",
+      "NumberofSecond": "8",
+      "NumberofThird": "8",
+      "Numberof4th": "8",
+      "Numberof5th": "7",
+      "Numberof6th": "7"
+    },
+    {
+      "name": "Mike Di Meglio",
+      "Victories": "6",
+      "NumberofSecond": "7",
+      "NumberofThird": "7",
+      "Numberof4th": "8",
+      "Numberof5th": "7",
+      "Numberof6th": "7"
+    },
+    {
+      "name": "Jean Francois Baldé",
+      "Victories": "5",
+      "NumberofSecond": "6",
+      "NumberofThird": "7",
+      "Numberof4th": "7",
+      "Numberof5th": "6",
+      "Numberof6th": "6"
+    },
+    {
+      "name": "Randy De Puniet",
+      "Victories": "5",
+      "NumberofSecond": "6",
+      "NumberofThird": "6",
+      "Numberof4th": "7",
+      "Numberof5th": "6",
+      "Numberof6th": "6"
+    },
+    {
+      "name": "Dominique Sarron",
+      "Victories": "4",
+      "NumberofSecond": "6",
+      "NumberofThird": "6",
+      "Numberof4th": "6",
+      "Numberof5th": "6",
+      "Numberof6th": "6"
+    },
+    {
+      "name": "Michel Rougerie",
+      "Victories": "3",
+      "NumberofSecond": "5",
+      "NumberofThird": "6",
+      "Numberof4th": "6",
+      "Numberof5th": "5",
+      "Numberof6th": "5"
+    },
+    {
+      "name": "Jean Philippe Ruggia",
+      "Victories": "3",
+      "NumberofSecond": "4",
+      "NumberofThird": "5",
+      "Numberof4th": "5",
+      "Numberof5th": "5",
+      "Numberof6th": "5"
+    },
+    {
+      "name": "Patrick Fernandez",
+      "Victories": "3",
+      "NumberofSecond": "4",
+      "NumberofThird": "5",
+      "Numberof4th": "5",
+      "Numberof5th": "5",
+      "Numberof6th": "5"
+    },
+    {
+      "name": "Eric Saul",
+      "Victories": "2",
+      "NumberofSecond": "4",
+      "NumberofThird": "4",
+      "Numberof4th": "4",
+      "Numberof5th": "4",
+      "Numberof6th": "4"
+    },
+    {
+      "name": "Pierre Monneret",
+      "Victories": "2",
+      "NumberofSecond": "3",
+      "NumberofThird": "4",
+      "Numberof4th": "4",
+      "Numberof5th": "4",
+      "Numberof6th": "4"
+    },
+    {
+      "name": "Alexis Masbou",
+      "Victories": "2",
+      "NumberofSecond": "3",
+      "NumberofThird": "4",
+      "Numberof4th": "4",
+      "Numberof5th": "4",
+      "Numberof6th": "4"
+    },
+    {
+      "name": "Jean Aureal",
+      "Victories": "1",
+      "NumberofSecond": "3",
+      "NumberofThird": "4",
+      "Numberof4th": "4",
+      "Numberof5th": "4",
+      "Numberof6th": "4"
+    },
+    {
+      "name": "Herve Guilleux",
+      "Victories": "1",
+      "NumberofSecond": "3",
+      "NumberofThird": "4",
+      "Numberof4th": "4",
+      "Numberof5th": "4",
+      "Numberof6th": "4"
+    },
+    {
+      "name": "Jules Cluzel",
+      "Victories": "1",
+      "NumberofSecond": "3",
+      "NumberofThird": "3",
+      "Numberof4th": "3",
+      "Numberof5th": "4",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Jean Claude Selini",
+      "Victories": "1",
+      "NumberofSecond": "2",
+      "NumberofThird": "3",
+      "Numberof4th": "3",
+      "Numberof5th": "3",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Louis Rossi",
+      "Victories": "1",
+      "NumberofSecond": "2",
+      "NumberofThird": "3",
+      "Numberof4th": "3",
+      "Numberof5th": "3",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Jacques Bolle",
+      "Victories": "1",
+      "NumberofSecond": "2",
+      "NumberofThird": "2",
+      "Numberof4th": "3",
+      "Numberof5th": "3",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Olivier Chevallier",
+      "Victories": "1",
+      "NumberofSecond": "1",
+      "NumberofThird": "2",
+      "Numberof4th": "2",
+      "Numberof5th": "3",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Jean Louis Tournadre",
+      "Victories": "1",
+      "NumberofSecond": "1",
+      "NumberofThird": "2",
+      "Numberof4th": "2",
+      "Numberof5th": "2",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Regis Laconi",
+      "Victories": "1",
+      "NumberofSecond": "1",
+      "NumberofThird": "2",
+      "Numberof4th": "2",
+      "Numberof5th": "2",
+      "Numberof6th": "2"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "Country": "CZ",
+  "Riders": [
+    {
+      "name": "Lukas Pesek",
+      "Victories": "2",
+      "NumberofSecond": "4",
+      "NumberofThird": "4",
+      "Numberof4th": "4",
+      "Numberof5th": "4",
+      "Numberof6th": "4"
+    },
+    {
+      "name": "Karel Abraham",
+      "Victories": "1",
+      "NumberofSecond": "3",
+      "NumberofThird": "4",
+      "Numberof4th": "4",
+      "Numberof5th": "4",
+      "Numberof6th": "4"
+    }
+  ]
+}

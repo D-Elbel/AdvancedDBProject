@@ -1,0 +1,41 @@
+{
+  "Country": "",
+  "Riders": [
+    {
+      "name": "Jim Redman",
+      "Victories": "45",
+      "NumberofSecond": "34",
+      "NumberofThird": "25",
+      "Numberof4th": "20",
+      "Numberof5th": "19",
+      "Numberof6th": "17"
+    },
+    {
+      "name": "Gary Hocking",
+      "Victories": "19",
+      "NumberofSecond": "17",
+      "NumberofThird": "15",
+      "Numberof4th": "13",
+      "Numberof5th": "13",
+      "Numberof6th": "13"
+    },
+    {
+      "name": "Ray Amm",
+      "Victories": "6",
+      "NumberofSecond": "8",
+      "NumberofThird": "8",
+      "Numberof4th": "8",
+      "Numberof5th": "7",
+      "Numberof6th": "7"
+    },
+    {
+      "name": "Franta Stastny",
+      "Victories": "4",
+      "NumberofSecond": "6",
+      "NumberofThird": "6",
+      "Numberof4th": "6",
+      "Numberof5th": "6",
+      "Numberof6th": "6"
+    }
+  ]
+}

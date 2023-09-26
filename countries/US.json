@@ -1,0 +1,113 @@
+{
+  "Country": "US",
+  "Riders": [
+    {
+      "name": "Eddie Lawson",
+      "Victories": "31",
+      "NumberofSecond": "25",
+      "NumberofThird": "19",
+      "Numberof4th": "17",
+      "Numberof5th": "17",
+      "Numberof6th": "15"
+    },
+    {
+      "name": "Freddie Spencer",
+      "Victories": "27",
+      "NumberofSecond": "23",
+      "NumberofThird": "18",
+      "Numberof4th": "16",
+      "Numberof5th": "16",
+      "Numberof6th": "14"
+    },
+    {
+      "name": "Kevin Schwantz",
+      "Victories": "25",
+      "NumberofSecond": "22",
+      "NumberofThird": "17",
+      "Numberof4th": "15",
+      "Numberof5th": "15",
+      "Numberof6th": "14"
+    },
+    {
+      "name": "Kenny Roberts",
+      "Victories": "24",
+      "NumberofSecond": "21",
+      "NumberofThird": "17",
+      "Numberof4th": "15",
+      "Numberof5th": "15",
+      "Numberof6th": "14"
+    },
+    {
+      "name": "Wayne Rainey",
+      "Victories": "24",
+      "NumberofSecond": "20",
+      "NumberofThird": "17",
+      "Numberof4th": "15",
+      "Numberof5th": "15",
+      "Numberof6th": "14"
+    },
+    {
+      "name": "John Kocinski",
+      "Victories": "13",
+      "NumberofSecond": "13",
+      "NumberofThird": "12",
+      "Numberof4th": "11",
+      "Numberof5th": "10",
+      "Numberof6th": "10"
+    },
+    {
+      "name": "Randy Mamola",
+      "Victories": "13",
+      "NumberofSecond": "13",
+      "NumberofThird": "12",
+      "Numberof4th": "11",
+      "Numberof5th": "10",
+      "Numberof6th": "10"
+    },
+    {
+      "name": "Kenny Roberts Jr",
+      "Victories": "8",
+      "NumberofSecond": "9",
+      "NumberofThird": "9",
+      "Numberof4th": "9",
+      "Numberof5th": "8",
+      "Numberof6th": "8"
+    },
+    {
+      "name": "Nicky Hayden",
+      "Victories": "3",
+      "NumberofSecond": "4",
+      "NumberofThird": "5",
+      "Numberof4th": "5",
+      "Numberof5th": "5",
+      "Numberof6th": "5"
+    },
+    {
+      "name": "Pat Hennen",
+      "Victories": "3",
+      "NumberofSecond": "4",
+      "NumberofThird": "5",
+      "Numberof4th": "5",
+      "Numberof5th": "5",
+      "Numberof6th": "5"
+    },
+    {
+      "name": "Ben Spies",
+      "Victories": "1",
+      "NumberofSecond": "2",
+      "NumberofThird": "3",
+      "Numberof4th": "3",
+      "Numberof5th": "3",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Jim Filice",
+      "Victories": "1",
+      "NumberofSecond": "1",
+      "NumberofThird": "2",
+      "Numberof4th": "2",
+      "Numberof5th": "3",
+      "Numberof6th": "3"
+    }
+  ]
+}

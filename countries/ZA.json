@@ -1,0 +1,50 @@
+{
+  "Country": "ZA",
+  "Riders": [
+    {
+      "name": "Kork Ballington",
+      "Victories": "31",
+      "NumberofSecond": "25",
+      "NumberofThird": "19",
+      "Numberof4th": "17",
+      "Numberof5th": "16",
+      "Numberof6th": "15"
+    },
+    {
+      "name": "Brad Binder",
+      "Victories": "17",
+      "NumberofSecond": "15",
+      "NumberofThird": "14",
+      "Numberof4th": "12",
+      "Numberof5th": "12",
+      "Numberof6th": "12"
+    },
+    {
+      "name": "Jonnie Ekerold",
+      "Victories": "7",
+      "NumberofSecond": "8",
+      "NumberofThird": "9",
+      "Numberof4th": "8",
+      "Numberof5th": "7",
+      "Numberof6th": "7"
+    },
+    {
+      "name": "Alan North",
+      "Victories": "1",
+      "NumberofSecond": "3",
+      "NumberofThird": "3",
+      "Numberof4th": "3",
+      "Numberof5th": "4",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Darryn Binder",
+      "Victories": "1",
+      "NumberofSecond": "2",
+      "NumberofThird": "3",
+      "Numberof4th": "3",
+      "Numberof5th": "3",
+      "Numberof6th": "3"
+    }
+  ]
+}

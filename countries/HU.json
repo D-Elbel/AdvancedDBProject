@@ -1,0 +1,23 @@
+{
+  "Country": "HU",
+  "Riders": [
+    {
+      "name": "Gabor Talmacsi",
+      "Victories": "9",
+      "NumberofSecond": "10",
+      "NumberofThird": "10",
+      "Numberof4th": "9",
+      "Numberof5th": "9",
+      "Numberof6th": "8"
+    },
+    {
+      "name": "Janos Drapal",
+      "Victories": "4",
+      "NumberofSecond": "6",
+      "NumberofThird": "6",
+      "Numberof4th": "6",
+      "Numberof5th": "6",
+      "Numberof6th": "6"
+    }
+  ]
+}

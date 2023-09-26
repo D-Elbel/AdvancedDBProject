@@ -1,0 +1,293 @@
+{
+  "Country": "DE",
+  "Riders": [
+    {
+      "name": "Anton Mang",
+      "Victories": "42",
+      "NumberofSecond": "33",
+      "NumberofThird": "20",
+      "Numberof4th": "19",
+      "Numberof5th": "18",
+      "Numberof6th": "16"
+    },
+    {
+      "name": "Ralf Waldmann",
+      "Victories": "20",
+      "NumberofSecond": "17",
+      "NumberofThird": "16",
+      "Numberof4th": "14",
+      "Numberof5th": "13",
+      "Numberof6th": "13"
+    },
+    {
+      "name": "Ernst Degner",
+      "Victories": "15",
+      "NumberofSecond": "14",
+      "NumberofThird": "13",
+      "Numberof4th": "11",
+      "Numberof5th": "11",
+      "Numberof6th": "11"
+    },
+    {
+      "name": "Hans-Georg Anscheidt",
+      "Victories": "14",
+      "NumberofSecond": "13",
+      "NumberofThird": "12",
+      "Numberof4th": "11",
+      "Numberof5th": "11",
+      "Numberof6th": "10"
+    },
+    {
+      "name": "Dieter Braun",
+      "Victories": "14",
+      "NumberofSecond": "13",
+      "NumberofThird": "12",
+      "Numberof4th": "11",
+      "Numberof5th": "11",
+      "Numberof6th": "10"
+    },
+    {
+      "name": "Dirk Raudies",
+      "Victories": "14",
+      "NumberofSecond": "13",
+      "NumberofThird": "12",
+      "Numberof4th": "11",
+      "Numberof5th": "10",
+      "Numberof6th": "10"
+    },
+    {
+      "name": "Werner Haas",
+      "Victories": "11",
+      "NumberofSecond": "11",
+      "NumberofThird": "11",
+      "Numberof4th": "10",
+      "Numberof5th": "9",
+      "Numberof6th": "9"
+    },
+    {
+      "name": "Stefan Bradl",
+      "Victories": "7",
+      "NumberofSecond": "8",
+      "NumberofThird": "9",
+      "Numberof4th": "8",
+      "Numberof5th": "7",
+      "Numberof6th": "7"
+    },
+    {
+      "name": "Sandro Cortese",
+      "Victories": "7",
+      "NumberofSecond": "8",
+      "NumberofThird": "9",
+      "Numberof4th": "8",
+      "Numberof5th": "7",
+      "Numberof6th": "7"
+    },
+    {
+      "name": "Manfred Herweh",
+      "Victories": "6",
+      "NumberofSecond": "7",
+      "NumberofThird": "8",
+      "Numberof4th": "8",
+      "Numberof5th": "7",
+      "Numberof6th": "7"
+    },
+    {
+      "name": "Jonas Folger",
+      "Victories": "5",
+      "NumberofSecond": "7",
+      "NumberofThird": "7",
+      "Numberof4th": "8",
+      "Numberof5th": "7",
+      "Numberof6th": "7"
+    },
+    {
+      "name": "Peter Oettl",
+      "Victories": "5",
+      "NumberofSecond": "7",
+      "NumberofThird": "7",
+      "Numberof4th": "7",
+      "Numberof5th": "6",
+      "Numberof6th": "6"
+    },
+    {
+      "name": "Helmut Bradl",
+      "Victories": "5",
+      "NumberofSecond": "6",
+      "NumberofThird": "6",
+      "Numberof4th": "7",
+      "Numberof5th": "6",
+      "Numberof6th": "6"
+    },
+    {
+      "name": "Herbert Rittberger",
+      "Victories": "4",
+      "NumberofSecond": "6",
+      "NumberofThird": "6",
+      "Numberof4th": "7",
+      "Numberof5th": "6",
+      "Numberof6th": "6"
+    },
+    {
+      "name": "Gerhard Waibel",
+      "Victories": "4",
+      "NumberofSecond": "6",
+      "NumberofThird": "6",
+      "Numberof4th": "6",
+      "Numberof5th": "6",
+      "Numberof6th": "6"
+    },
+    {
+      "name": "Reinhold Roth",
+      "Victories": "3",
+      "NumberofSecond": "5",
+      "NumberofThird": "5",
+      "Numberof4th": "6",
+      "Numberof5th": "5",
+      "Numberof6th": "5"
+    },
+    {
+      "name": "Martin Wimmer",
+      "Victories": "3",
+      "NumberofSecond": "4",
+      "NumberofThird": "5",
+      "Numberof4th": "5",
+      "Numberof5th": "5",
+      "Numberof6th": "5"
+    },
+    {
+      "name": "Helmut Kassner",
+      "Victories": "2",
+      "NumberofSecond": "3",
+      "NumberofThird": "4",
+      "Numberof4th": "4",
+      "Numberof5th": "4",
+      "Numberof6th": "4"
+    },
+    {
+      "name": "Steve Jenkner",
+      "Victories": "1",
+      "NumberofSecond": "3",
+      "NumberofThird": "4",
+      "Numberof4th": "4",
+      "Numberof5th": "4",
+      "Numberof6th": "4"
+    },
+    {
+      "name": "Horst Fügner",
+      "Victories": "1",
+      "NumberofSecond": "3",
+      "NumberofThird": "3",
+      "Numberof4th": "3",
+      "Numberof5th": "4",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Lukas Tulovic",
+      "Victories": "1",
+      "NumberofSecond": "3",
+      "NumberofThird": "3",
+      "Numberof4th": "3",
+      "Numberof5th": "4",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Lukas Tulovic",
+      "Victories": "1",
+      "NumberofSecond": "3",
+      "NumberofThird": "3",
+      "Numberof4th": "3",
+      "Numberof5th": "4",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Gerhard Thurow",
+      "Victories": "1",
+      "NumberofSecond": "2",
+      "NumberofThird": "3",
+      "Numberof4th": "3",
+      "Numberof5th": "3",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Roland Felgenheier",
+      "Victories": "1",
+      "NumberofSecond": "2",
+      "NumberofThird": "3",
+      "Numberof4th": "3",
+      "Numberof5th": "3",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Edmund Czihak",
+      "Victories": "1",
+      "NumberofSecond": "2",
+      "NumberofThird": "3",
+      "Numberof4th": "3",
+      "Numberof5th": "3",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Edmund Czihak",
+      "Victories": "1",
+      "NumberofSecond": "2",
+      "NumberofThird": "3",
+      "Numberof4th": "3",
+      "Numberof5th": "3",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Stefan Prein",
+      "Victories": "1",
+      "NumberofSecond": "2",
+      "NumberofThird": "2",
+      "Numberof4th": "2",
+      "Numberof5th": "3",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Stefan Prein",
+      "Victories": "1",
+      "NumberofSecond": "2",
+      "NumberofThird": "2",
+      "Numberof4th": "2",
+      "Numberof5th": "3",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Hermann Paul Müller",
+      "Victories": "1",
+      "NumberofSecond": "2",
+      "NumberofThird": "2",
+      "Numberof4th": "2",
+      "Numberof5th": "3",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Fritz Reitmaier",
+      "Victories": "1",
+      "NumberofSecond": "1",
+      "NumberofThird": "2",
+      "Numberof4th": "2",
+      "Numberof5th": "3",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Ingo Emmerich",
+      "Victories": "1",
+      "NumberofSecond": "1",
+      "NumberofThird": "2",
+      "Numberof4th": "2",
+      "Numberof5th": "2",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Philipp Oettl",
+      "Victories": "1",
+      "NumberofSecond": "1",
+      "NumberofThird": "2",
+      "Numberof4th": "2",
+      "Numberof5th": "2",
+      "Numberof6th": "3"
+    }
+  ]
+}

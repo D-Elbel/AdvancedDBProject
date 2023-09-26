@@ -1,0 +1,131 @@
+{
+  "Country": "NL",
+  "Riders": [
+    {
+      "name": "Jan De Vries",
+      "Victories": "14",
+      "NumberofSecond": "14",
+      "NumberofThird": "13",
+      "Numberof4th": "11",
+      "Numberof5th": "11",
+      "Numberof6th": "10"
+    },
+    {
+      "name": "Hans Spaan",
+      "Victories": "9",
+      "NumberofSecond": "10",
+      "NumberofThird": "10",
+      "Numberof4th": "9",
+      "Numberof5th": "9",
+      "Numberof6th": "8"
+    },
+    {
+      "name": "Henk Van Kessel",
+      "Victories": "7",
+      "NumberofSecond": "9",
+      "NumberofThird": "9",
+      "Numberof4th": "9",
+      "Numberof5th": "7",
+      "Numberof6th": "7"
+    },
+    {
+      "name": "Aalt Toersen",
+      "Victories": "6",
+      "NumberofSecond": "7",
+      "NumberofThird": "8",
+      "Numberof4th": "8",
+      "Numberof5th": "7",
+      "Numberof6th": "7"
+    },
+    {
+      "name": "Wil Hartog",
+      "Victories": "5",
+      "NumberofSecond": "6",
+      "NumberofThird": "7",
+      "Numberof4th": "7",
+      "Numberof5th": "6",
+      "Numberof6th": "6"
+    },
+    {
+      "name": "Paul Lodewijkx",
+      "Victories": "4",
+      "NumberofSecond": "6",
+      "NumberofThird": "6",
+      "Numberof4th": "6",
+      "Numberof5th": "6",
+      "Numberof6th": "6"
+    },
+    {
+      "name": "Theo Timmer",
+      "Victories": "3",
+      "NumberofSecond": "5",
+      "NumberofThird": "5",
+      "Numberof4th": "6",
+      "Numberof5th": "5",
+      "Numberof6th": "5"
+    },
+    {
+      "name": "Jack Middelburg",
+      "Victories": "2",
+      "NumberofSecond": "3",
+      "NumberofThird": "4",
+      "Numberof4th": "4",
+      "Numberof5th": "4",
+      "Numberof6th": "4"
+    },
+    {
+      "name": "Jan Huberts",
+      "Victories": "2",
+      "NumberofSecond": "3",
+      "NumberofThird": "4",
+      "Numberof4th": "4",
+      "Numberof5th": "4",
+      "Numberof6th": "4"
+    },
+    {
+      "name": "Cees Van Dongen",
+      "Victories": "1",
+      "NumberofSecond": "3",
+      "NumberofThird": "3",
+      "Numberof4th": "3",
+      "Numberof5th": "4",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Wilco Zeelenberg",
+      "Victories": "1",
+      "NumberofSecond": "2",
+      "NumberofThird": "3",
+      "Numberof4th": "3",
+      "Numberof5th": "3",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Jan Bruins",
+      "Victories": "1",
+      "NumberofSecond": "2",
+      "NumberofThird": "3",
+      "Numberof4th": "3",
+      "Numberof5th": "3",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Jos Schurgers",
+      "Victories": "1",
+      "NumberofSecond": "2",
+      "NumberofThird": "3",
+      "Numberof4th": "3",
+      "Numberof5th": "3",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Boet Van Dulmen",
+      "Victories": "1",
+      "NumberofSecond": "1",
+      "NumberofThird": "2",
+      "Numberof4th": "2",
+      "Numberof5th": "2",
+      "Numberof6th": "3"
+    }
+  ]
+}

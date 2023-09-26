@@ -1,0 +1,32 @@
+{
+  "Country": "AR",
+  "Riders": [
+    {
+      "name": "Sebastian Porto",
+      "Victories": "7",
+      "NumberofSecond": "8",
+      "NumberofThird": "8",
+      "Numberof4th": "8",
+      "Numberof5th": "7",
+      "Numberof6th": "7"
+    },
+    {
+      "name": "Jorge Kissling",
+      "Victories": "1",
+      "NumberofSecond": "2",
+      "NumberofThird": "3",
+      "Numberof4th": "3",
+      "Numberof5th": "3",
+      "Numberof6th": "3"
+    },
+    {
+      "name": "Benedicto Caldarella",
+      "Victories": "1",
+      "NumberofSecond": "2",
+      "NumberofThird": "2",
+      "Numberof4th": "2",
+      "Numberof5th": "3",
+      "Numberof6th": "3"
+    }
+  ]
+}

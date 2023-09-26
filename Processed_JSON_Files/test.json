@@ -1,0 +1,33 @@
+[
+  {
+    "Country": "IT",
+    "Riders": [
+      {
+        "name": "Giacomo Agostini",
+        "Victories": "30",
+        "NumberofSecond": "24",
+        "NumberofThird": "19",
+        "Numberof4th": "16",
+        "Numberof5th": "16",
+        "Numberof6th": "15"
+      },
+      {
+        "name": "Valentino Rossi",
+        "Victories": "115",
+        "NumberofSecond": "24",
+        "NumberofThird": "93",
+        "Numberof4th": "24",
+        "Numberof5th": "10",
+        "Numberof6th": "15"
+      }
+    ]
+  },
+  {
+    "Country": "US",
+    "Riders": [
+      { "name": "Bob Bobson", "Victories": "122" },
+      { "name": "Rob Robson", "Victories": "115" },
+      { "name": "Jim Jimson", "Victories": "115" }
+    ]
+  }
+]

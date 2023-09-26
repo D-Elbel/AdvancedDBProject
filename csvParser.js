@@ -1,6 +1,5 @@
 const csv = require("csv-parser");
 const fs = require("fs");
-const { sep } = require("path");
 
 const inputFilePath = "./CSV_Files";
 const outPutFilePath = "./Processed_JSON_Files";
@@ -22,9 +21,9 @@ fs.readdir(inputFilePath, (err, files) => {
           jsonContent,
           (err) => {
             if (err) {
-              console.error(`Error writing ${fileName}.json:`, err);
+              console.error(`Error writing ${fileName}`, err);
             } else {
-              console.log(`${fileName}.json has been saved`);
+              console.log(`${fileName} saved`);
             }
           }
         );
@@ -68,10 +67,9 @@ fs.readFile("./riders-finishing-positions.json", "utf8", (err, data) => {
   const outputJson = JSON.stringify(finalResult, null, 2);
   fs.writeFile("output.json", outputJson, "utf8", (err) => {
     if (err) {
-      console.error("Error writing output file:", err);
+      console.error(err);
       return;
     }
-    console.log("Result written to output.json");
   });
 });
 
@@ -88,7 +86,7 @@ fs.readFile("output.json", "utf8", (err, data) => {
       "utf8",
       (err) => {
         if (err) {
-          console.error(`Error writing ${filename}:`, err);
+          console.error(`${filename}`, err);
         } else {
           console.log(`Created ${filename}`);
         }

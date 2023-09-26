@@ -1,0 +1,32 @@
+{
+  "Country": "SE",
+  "Riders": [
+    {
+      "name": "Kent Andersson",
+      "Victories": "18",
+      "NumberofSecond": "16",
+      "NumberofThird": "14",
+      "Numberof4th": "13",
+      "Numberof5th": "13",
+      "Numberof6th": "12"
+    },
+    {
+      "name": "Borje Jansson",
+      "Victories": "4",
+      "NumberofSecond": "5",
+      "NumberofThird": "6",
+      "Numberof4th": "6",
+      "Numberof5th": "6",
+      "Numberof6th": "5"
+    },
+    {
+      "name": "Leif Gustafsson",
+      "Victories": "1",
+      "NumberofSecond": "3",
+      "NumberofThird": "3",
+      "Numberof4th": "3",
+      "Numberof5th": "4",
+      "Numberof6th": "3"
+    }
+  ]
+}

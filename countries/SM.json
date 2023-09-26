@@ -1,0 +1,23 @@
+{
+  "Country": "SM",
+  "Riders": [
+    {
+      "name": "Manuel Poggiali",
+      "Victories": "12",
+      "NumberofSecond": "12",
+      "NumberofThird": "11",
+      "Numberof4th": "10",
+      "Numberof5th": "9",
+      "Numberof6th": "9"
+    },
+    {
+      "name": "Alex De Angelis",
+      "Victories": "4",
+      "NumberofSecond": "6",
+      "NumberofThird": "6",
+      "Numberof4th": "6",
+      "Numberof5th": "6",
+      "Numberof6th": "6"
+    }
+  ]
+}

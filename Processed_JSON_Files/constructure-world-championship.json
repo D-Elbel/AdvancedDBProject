@@ -1,0 +1,1422 @@
+[
+  {
+    "Season": "2021",
+    "Constructor": "Yamaha",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "2021",
+    "Constructor": "Kalex",
+    "Class": "Moto2™"
+  },
+  {
+    "Season": "2021",
+    "Constructor": "KTM",
+    "Class": "Moto3™"
+  },
+  {
+    "Season": "2021",
+    "Constructor": "Energica",
+    "Class": "MotoE™"
+  },
+  {
+    "Season": "2020",
+    "Constructor": "Suzuki",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "2020",
+    "Constructor": "Kalex",
+    "Class": "Moto2™"
+  },
+  {
+    "Season": "2020",
+    "Constructor": "KTM",
+    "Class": "Moto3™"
+  },
+  {
+    "Season": "2020",
+    "Constructor": "Energica",
+    "Class": "MotoE™"
+  },
+  {
+    "Season": "2019",
+    "Constructor": "Honda",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "2019",
+    "Constructor": "Kalex",
+    "Class": "Moto2™"
+  },
+  {
+    "Season": "2019",
+    "Constructor": "Honda",
+    "Class": "Moto3™"
+  },
+  {
+    "Season": "2019",
+    "Constructor": "Energica",
+    "Class": "MotoE™"
+  },
+  {
+    "Season": "2018",
+    "Constructor": "Honda",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "2018",
+    "Constructor": "Kalex",
+    "Class": "Moto2™"
+  },
+  {
+    "Season": "2018",
+    "Constructor": "Honda",
+    "Class": "Moto3™"
+  },
+  {
+    "Season": "2017",
+    "Constructor": "Honda",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "2017",
+    "Constructor": "Kalex",
+    "Class": "Moto2™"
+  },
+  {
+    "Season": "2017",
+    "Constructor": "Honda",
+    "Class": "Moto3™"
+  },
+  {
+    "Season": "2016",
+    "Constructor": "Honda",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "2016",
+    "Constructor": "Kalex",
+    "Class": "Moto2™"
+  },
+  {
+    "Season": "2016",
+    "Constructor": "KTM",
+    "Class": "Moto3™"
+  },
+  {
+    "Season": "2015",
+    "Constructor": "Yamaha",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "2015",
+    "Constructor": "Kalex",
+    "Class": "Moto2™"
+  },
+  {
+    "Season": "2015",
+    "Constructor": "Honda",
+    "Class": "Moto3™"
+  },
+  {
+    "Season": "2014",
+    "Constructor": "Honda",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "2014",
+    "Constructor": "Kalex",
+    "Class": "Moto2™"
+  },
+  {
+    "Season": "2014",
+    "Constructor": "Honda",
+    "Class": "Moto3™"
+  },
+  {
+    "Season": "2013",
+    "Constructor": "Honda",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "2013",
+    "Constructor": "Kalex",
+    "Class": "Moto2™"
+  },
+  {
+    "Season": "2013",
+    "Constructor": "KTM",
+    "Class": "Moto3™"
+  },
+  {
+    "Season": "2012",
+    "Constructor": "Yamaha",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "2012",
+    "Constructor": "Suter",
+    "Class": "Moto2™"
+  },
+  {
+    "Season": "2012",
+    "Constructor": "KTM",
+    "Class": "Moto3™"
+  },
+  {
+    "Season": "2011",
+    "Constructor": "Honda",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "2011",
+    "Constructor": "Kalex",
+    "Class": "Moto2™"
+  },
+  {
+    "Season": "2011",
+    "Constructor": "Aprilia",
+    "Class": "125cc"
+  },
+  {
+    "Season": "2010",
+    "Constructor": "Yamaha",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "2010",
+    "Constructor": "Moriwaki",
+    "Class": "Moto2™"
+  },
+  {
+    "Season": "2010",
+    "Constructor": "Derbi",
+    "Class": "125cc"
+  },
+  {
+    "Season": "2009",
+    "Constructor": "Yamaha",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "2009",
+    "Constructor": "Honda",
+    "Class": "250cc"
+  },
+  {
+    "Season": "2009",
+    "Constructor": "Aprilia",
+    "Class": "125cc"
+  },
+  {
+    "Season": "2008",
+    "Constructor": "Yamaha",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "2008",
+    "Constructor": "Gilera",
+    "Class": "250cc"
+  },
+  {
+    "Season": "2008",
+    "Constructor": "Derbi",
+    "Class": "125cc"
+  },
+  {
+    "Season": "2007",
+    "Constructor": "Ducati",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "2007",
+    "Constructor": "Aprilia",
+    "Class": "250cc"
+  },
+  {
+    "Season": "2007",
+    "Constructor": "Aprilia",
+    "Class": "125cc"
+  },
+  {
+    "Season": "2006",
+    "Constructor": "Honda",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "2006",
+    "Constructor": "Aprilia",
+    "Class": "250cc"
+  },
+  {
+    "Season": "2006",
+    "Constructor": "Aprilia",
+    "Class": "125cc"
+  },
+  {
+    "Season": "2005",
+    "Constructor": "Yamaha",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "2005",
+    "Constructor": "Honda",
+    "Class": "250cc"
+  },
+  {
+    "Season": "2005",
+    "Constructor": "Honda",
+    "Class": "125cc"
+  },
+  {
+    "Season": "2004",
+    "Constructor": "Yamaha",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "2004",
+    "Constructor": "Honda",
+    "Class": "250cc"
+  },
+  {
+    "Season": "2004",
+    "Constructor": "Honda",
+    "Class": "125cc"
+  },
+  {
+    "Season": "2003",
+    "Constructor": "Honda",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "2003",
+    "Constructor": "Aprilia",
+    "Class": "250cc"
+  },
+  {
+    "Season": "2003",
+    "Constructor": "Honda",
+    "Class": "125cc"
+  },
+  {
+    "Season": "2002",
+    "Constructor": "Honda",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "2002",
+    "Constructor": "Aprilia",
+    "Class": "250cc"
+  },
+  {
+    "Season": "2002",
+    "Constructor": "Aprilia",
+    "Class": "125cc"
+  },
+  {
+    "Season": "2001",
+    "Constructor": "Honda",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "2001",
+    "Constructor": "Honda",
+    "Class": "250cc"
+  },
+  {
+    "Season": "2001",
+    "Constructor": "Gilera",
+    "Class": "125cc"
+  },
+  {
+    "Season": "2000",
+    "Constructor": "Suzuki",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "2000",
+    "Constructor": "Yamaha",
+    "Class": "250cc"
+  },
+  {
+    "Season": "2000",
+    "Constructor": "Aprilia",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1999",
+    "Constructor": "Honda",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1999",
+    "Constructor": "Aprilia",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1999",
+    "Constructor": "Honda",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1998",
+    "Constructor": "Honda",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1998",
+    "Constructor": "Aprilia",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1998",
+    "Constructor": "Honda",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1997",
+    "Constructor": "Honda",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1997",
+    "Constructor": "Honda",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1997",
+    "Constructor": "Aprilia",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1996",
+    "Constructor": "Honda",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1996",
+    "Constructor": "Aprilia",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1996",
+    "Constructor": "Honda",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1995",
+    "Constructor": "Honda",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1995",
+    "Constructor": "Aprilia",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1995",
+    "Constructor": "Honda",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1994",
+    "Constructor": "Honda",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1994",
+    "Constructor": "Aprilia",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1994",
+    "Constructor": "Aprilia",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1993",
+    "Constructor": "Suzuki",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1993",
+    "Constructor": "Yamaha",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1993",
+    "Constructor": "Honda",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1992",
+    "Constructor": "Yamaha",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1992",
+    "Constructor": "Honda",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1992",
+    "Constructor": "Aprilia",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1991",
+    "Constructor": "Yamaha",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1991",
+    "Constructor": "Honda",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1991",
+    "Constructor": "Honda",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1990",
+    "Constructor": "Yamaha",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1990",
+    "Constructor": "Yamaha",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1990",
+    "Constructor": "Honda",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1989",
+    "Constructor": "Honda",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1989",
+    "Constructor": "Honda",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1989",
+    "Constructor": "JJ Cobas",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1989",
+    "Constructor": "Derbi",
+    "Class": "80cc"
+  },
+  {
+    "Season": "1988",
+    "Constructor": "Yamaha",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1988",
+    "Constructor": "Honda",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1988",
+    "Constructor": "Derbi",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1988",
+    "Constructor": "Derbi",
+    "Class": "80cc"
+  },
+  {
+    "Season": "1987",
+    "Constructor": "Honda",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1987",
+    "Constructor": "Honda",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1987",
+    "Constructor": "Garelli",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1987",
+    "Constructor": "Derbi",
+    "Class": "80cc"
+  },
+  {
+    "Season": "1986",
+    "Constructor": "Yamaha",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1986",
+    "Constructor": "Yamaha",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1986",
+    "Constructor": "Garelli",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1986",
+    "Constructor": "Derbi",
+    "Class": "80cc"
+  },
+  {
+    "Season": "1985",
+    "Constructor": "Honda",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1985",
+    "Constructor": "Honda",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1985",
+    "Constructor": "Garelli",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1985",
+    "Constructor": "Krauser",
+    "Class": "80cc"
+  },
+  {
+    "Season": "1984",
+    "Constructor": "Yamaha",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1984",
+    "Constructor": "Chevallier",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1984",
+    "Constructor": "Garelli",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1984",
+    "Constructor": "Zundapp",
+    "Class": "80cc"
+  },
+  {
+    "Season": "1983",
+    "Constructor": "Honda",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1983",
+    "Constructor": "Yamaha",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1983",
+    "Constructor": "Garelli",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1983",
+    "Constructor": "Krauser",
+    "Class": "50cc"
+  },
+  {
+    "Season": "1982",
+    "Constructor": "Suzuki",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1982",
+    "Constructor": "Yamaha",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1982",
+    "Constructor": "Garelli",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1982",
+    "Constructor": "Kawasaki",
+    "Class": "350cc"
+  },
+  {
+    "Season": "1982",
+    "Constructor": "Kreidler",
+    "Class": "50cc"
+  },
+  {
+    "Season": "1981",
+    "Constructor": "Suzuki",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1981",
+    "Constructor": "Kawasaki",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1981",
+    "Constructor": "Minarelli",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1981",
+    "Constructor": "Kawasaki",
+    "Class": "350cc"
+  },
+  {
+    "Season": "1981",
+    "Constructor": "Motul Bultaco",
+    "Class": "50cc"
+  },
+  {
+    "Season": "1980",
+    "Constructor": "Yamaha",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1980",
+    "Constructor": "Kawasaki",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1980",
+    "Constructor": "MBA",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1980",
+    "Constructor": "Bimota-Yamaha",
+    "Class": "350cc"
+  },
+  {
+    "Season": "1980",
+    "Constructor": "Kreidler Van Veen",
+    "Class": "50cc"
+  },
+  {
+    "Season": "1979",
+    "Constructor": "Yamaha",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1979",
+    "Constructor": "Kawasaki",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1979",
+    "Constructor": "Minarelli",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1979",
+    "Constructor": "Kawasaki",
+    "Class": "350cc"
+  },
+  {
+    "Season": "1979",
+    "Constructor": "Kreidler",
+    "Class": "50cc"
+  },
+  {
+    "Season": "1978",
+    "Constructor": "Yamaha",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1978",
+    "Constructor": "Kawasaki",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1978",
+    "Constructor": "MBA",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1978",
+    "Constructor": "Kawasaki",
+    "Class": "350cc"
+  },
+  {
+    "Season": "1978",
+    "Constructor": "Bultaco",
+    "Class": "50cc"
+  },
+  {
+    "Season": "1977",
+    "Constructor": "Suzuki",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1977",
+    "Constructor": "Morbidelli",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1977",
+    "Constructor": "Morbidelli",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1977",
+    "Constructor": "Yamaha",
+    "Class": "350cc"
+  },
+  {
+    "Season": "1977",
+    "Constructor": "Bultaco",
+    "Class": "50cc"
+  },
+  {
+    "Season": "1976",
+    "Constructor": "Suzuki",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1976",
+    "Constructor": "Harley Davidson",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1976",
+    "Constructor": "Morbidelli",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1976",
+    "Constructor": "Harley Davidson",
+    "Class": "350cc"
+  },
+  {
+    "Season": "1976",
+    "Constructor": "Bultaco",
+    "Class": "50cc"
+  },
+  {
+    "Season": "1975",
+    "Constructor": "Yamaha",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1975",
+    "Constructor": "Harley Davidson",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1975",
+    "Constructor": "Morbidelli",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1975",
+    "Constructor": "Yamaha",
+    "Class": "350cc"
+  },
+  {
+    "Season": "1975",
+    "Constructor": "Kreidler",
+    "Class": "50cc"
+  },
+  {
+    "Season": "1974",
+    "Constructor": "MV Agusta",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1974",
+    "Constructor": "Harley Davidson",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1974",
+    "Constructor": "Yamaha",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1974",
+    "Constructor": "Yamaha",
+    "Class": "350cc"
+  },
+  {
+    "Season": "1974",
+    "Constructor": "Van Veen-Kreidler",
+    "Class": "50cc"
+  },
+  {
+    "Season": "1973",
+    "Constructor": "MV Agusta",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1973",
+    "Constructor": "Yamaha",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1973",
+    "Constructor": "Yamaha",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1973",
+    "Constructor": "MV Agusta",
+    "Class": "350cc"
+  },
+  {
+    "Season": "1973",
+    "Constructor": "Kreidler",
+    "Class": "50cc"
+  },
+  {
+    "Season": "1972",
+    "Constructor": "Honda",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1972",
+    "Constructor": "Yamaha",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1972",
+    "Constructor": "Derbi",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1972",
+    "Constructor": "MV Agusta",
+    "Class": "350cc"
+  },
+  {
+    "Season": "1972",
+    "Constructor": "Kreidler",
+    "Class": "50cc"
+  },
+  {
+    "Season": "1971",
+    "Constructor": "MV Agusta",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1971",
+    "Constructor": "Yamaha",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1971",
+    "Constructor": "Derbi",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1971",
+    "Constructor": "MV Agusta",
+    "Class": "350cc"
+  },
+  {
+    "Season": "1971",
+    "Constructor": "Kreidler",
+    "Class": "50cc"
+  },
+  {
+    "Season": "1970",
+    "Constructor": "MV Agusta",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1970",
+    "Constructor": "Yamaha",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1970",
+    "Constructor": "Suzuki",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1970",
+    "Constructor": "Benelli",
+    "Class": "350cc"
+  },
+  {
+    "Season": "1970",
+    "Constructor": "Derbi",
+    "Class": "50cc"
+  },
+  {
+    "Season": "1969",
+    "Constructor": "MV Agusta",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1969",
+    "Constructor": "Benelli",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1969",
+    "Constructor": "Kawasaki",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1969",
+    "Constructor": "MV Agusta",
+    "Class": "350cc"
+  },
+  {
+    "Season": "1969",
+    "Constructor": "Derbi",
+    "Class": "50cc"
+  },
+  {
+    "Season": "1968",
+    "Constructor": "MV Agusta",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1968",
+    "Constructor": "Yamaha",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1968",
+    "Constructor": "Yamaha",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1968",
+    "Constructor": "MV Agusta",
+    "Class": "350cc"
+  },
+  {
+    "Season": "1968",
+    "Constructor": "Suzuki",
+    "Class": "50cc"
+  },
+  {
+    "Season": "1967",
+    "Constructor": "Honda",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1967",
+    "Constructor": "Honda",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1967",
+    "Constructor": "Yamaha",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1967",
+    "Constructor": "Honda",
+    "Class": "350cc"
+  },
+  {
+    "Season": "1967",
+    "Constructor": "Suzuki",
+    "Class": "50cc"
+  },
+  {
+    "Season": "1966",
+    "Constructor": "MV Agusta",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1966",
+    "Constructor": "Honda",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1966",
+    "Constructor": "Honda",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1966",
+    "Constructor": "Honda",
+    "Class": "350cc"
+  },
+  {
+    "Season": "1966",
+    "Constructor": "Suzuki",
+    "Class": "50cc"
+  },
+  {
+    "Season": "1965",
+    "Constructor": "MV Agusta",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1965",
+    "Constructor": "Yamaha",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1965",
+    "Constructor": "Suzuki",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1965",
+    "Constructor": "Honda",
+    "Class": "350cc"
+  },
+  {
+    "Season": "1965",
+    "Constructor": "Honda",
+    "Class": "50cc"
+  },
+  {
+    "Season": "1964",
+    "Constructor": "MV Agusta",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1964",
+    "Constructor": "Yamaha",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1964",
+    "Constructor": "Honda",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1964",
+    "Constructor": "Honda",
+    "Class": "350cc"
+  },
+  {
+    "Season": "1964",
+    "Constructor": "Suzuki",
+    "Class": "50cc"
+  },
+  {
+    "Season": "1963",
+    "Constructor": "MV Agusta",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1963",
+    "Constructor": "Honda",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1963",
+    "Constructor": "Suzuki",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1963",
+    "Constructor": "Honda",
+    "Class": "350cc"
+  },
+  {
+    "Season": "1963",
+    "Constructor": "Suzuki",
+    "Class": "50cc"
+  },
+  {
+    "Season": "1962",
+    "Constructor": "MV Agusta",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1962",
+    "Constructor": "Honda",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1962",
+    "Constructor": "Honda",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1962",
+    "Constructor": "Honda",
+    "Class": "350cc"
+  },
+  {
+    "Season": "1962",
+    "Constructor": "Suzuki",
+    "Class": "50cc"
+  },
+  {
+    "Season": "1961",
+    "Constructor": "MV Agusta",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1961",
+    "Constructor": "Honda",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1961",
+    "Constructor": "Honda",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1961",
+    "Constructor": "MV Agusta",
+    "Class": "350cc"
+  },
+  {
+    "Season": "1960",
+    "Constructor": "MV Agusta",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1960",
+    "Constructor": "MV Agusta",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1960",
+    "Constructor": "MV Agusta",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1960",
+    "Constructor": "MV Agusta",
+    "Class": "350cc"
+  },
+  {
+    "Season": "1959",
+    "Constructor": "MV Agusta",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1959",
+    "Constructor": "MV Agusta",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1959",
+    "Constructor": "MV Agusta",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1959",
+    "Constructor": "MV Agusta",
+    "Class": "350cc"
+  },
+  {
+    "Season": "1958",
+    "Constructor": "MV Agusta",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1958",
+    "Constructor": "MV Agusta",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1958",
+    "Constructor": "MV Agusta",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1958",
+    "Constructor": "MV Agusta",
+    "Class": "350cc"
+  },
+  {
+    "Season": "1957",
+    "Constructor": "Gilera",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1957",
+    "Constructor": "Mondial",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1957",
+    "Constructor": "Mondial",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1957",
+    "Constructor": "Moto Guzzi",
+    "Class": "350cc"
+  },
+  {
+    "Season": "1956",
+    "Constructor": "MV Agusta",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1956",
+    "Constructor": "MV Agusta",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1956",
+    "Constructor": "MV Agusta",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1956",
+    "Constructor": "Moto Guzzi",
+    "Class": "350cc"
+  },
+  {
+    "Season": "1955",
+    "Constructor": "Gilera",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1955",
+    "Constructor": "NSU",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1955",
+    "Constructor": "MV Agusta",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1955",
+    "Constructor": "Moto Guzzi",
+    "Class": "350cc"
+  },
+  {
+    "Season": "1954",
+    "Constructor": "Gilera",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1954",
+    "Constructor": "NSU",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1954",
+    "Constructor": "NSU",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1954",
+    "Constructor": "Moto Guzzi",
+    "Class": "350cc"
+  },
+  {
+    "Season": "1953",
+    "Constructor": "Gilera",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1953",
+    "Constructor": "NSU",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1953",
+    "Constructor": "NSU",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1953",
+    "Constructor": "Moto Guzzi",
+    "Class": "350cc"
+  },
+  {
+    "Season": "1952",
+    "Constructor": "Gilera",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1952",
+    "Constructor": "Moto Guzzi",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1952",
+    "Constructor": "MV Agusta",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1952",
+    "Constructor": "Norton",
+    "Class": "350cc"
+  },
+  {
+    "Season": "1951",
+    "Constructor": "Norton",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1951",
+    "Constructor": "Moto Guzzi",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1951",
+    "Constructor": "Mondial",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1951",
+    "Constructor": "Norton",
+    "Class": "350cc"
+  },
+  {
+    "Season": "1950",
+    "Constructor": "Gilera",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1950",
+    "Constructor": "Benelli",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1950",
+    "Constructor": "Mondial",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1950",
+    "Constructor": "Velocette",
+    "Class": "350cc"
+  },
+  {
+    "Season": "1949",
+    "Constructor": "AJS",
+    "Class": "MotoGP™"
+  },
+  {
+    "Season": "1949",
+    "Constructor": "Moto Guzzi",
+    "Class": "250cc"
+  },
+  {
+    "Season": "1949",
+    "Constructor": "Mondial",
+    "Class": "125cc"
+  },
+  {
+    "Season": "1949",
+    "Constructor": "Velocette",
+    "Class": "350cc"
+  }
+]

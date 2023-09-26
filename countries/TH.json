@@ -1,0 +1,14 @@
+{
+  "Country": "TH",
+  "Riders": [
+    {
+      "name": "Somkiat Chantra",
+      "Victories": "1",
+      "NumberofSecond": "1",
+      "NumberofThird": "2",
+      "Numberof4th": "2",
+      "Numberof5th": "3",
+      "Numberof6th": "3"
+    }
+  ]
+}
