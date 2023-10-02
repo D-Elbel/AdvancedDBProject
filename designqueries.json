@@ -1,0 +1,38 @@
+{
+  "_id": "_design/queries",
+  "_rev": "190-96237ba01091dd0096b784735547a189",
+  "views": {
+    "findItaly": {
+      "map": "function(doc) {\r\n  if (doc.Country === \"IT\") {\r\n    emit(doc.Country, doc);\r\n  }\r\n}"
+    },
+    "hundredPlusVictories": {
+      "map": "function(doc) {\r\n  if (doc.Country && doc.Riders && Array.isArray(doc.Riders)) {\r\n    var totalVictories = 0;\r\n    doc.Riders.forEach(function(rider) {\r\n      if (rider.Victories) {\r\n        totalVictories += parseInt(rider.Victories, 10);\r\n      }\r\n    });\r\n    \r\n    if (totalVictories > 100) {\r\n      emit(null, doc);\r\n    }\r\n  }\r\n}",
+      "reduce": "_sum"
+    },
+    "ridersPerCountry": {
+      "reduce": "_count",
+      "map": "function(doc) {\r\n  if (doc.Country && doc.Riders && Array.isArray(doc.Riders)) {\r\n    doc.Riders.forEach(function(rider) {\r\n      if (rider.name) {\r\n        emit(doc.Country, 1);\r\n      }\r\n    });\r\n  }\r\n}"
+    },
+    "riderVictoriesPerCountry": {
+      "reduce": "_sum",
+      "map": "function(doc) {\r\n  if (doc.Country && doc.Riders && Array.isArray(doc.Riders)) {\r\n    doc.Riders.forEach(function(rider) {\r\n      if (rider.Victories) {\r\n        emit(doc.Country, parseInt(rider.Victories, 10));\r\n      }\r\n    });\r\n  }\r\n}"
+    },
+    "riderVictoriesPerCountryStats": {
+      "reduce": "_stats",
+      "map": "function(doc) {\r\n  if (doc.Country && doc.Riders && Array.isArray(doc.Riders)) {\r\n    doc.Riders.forEach(function(rider) {\r\n      if (rider.Victories) {\r\n        emit(doc.Country, parseInt(rider.Victories, 10));\r\n      }\r\n    });\r\n  }\r\n}"
+    },
+    "groupLevel": {
+      "map": "function(doc) {\r\n  if (doc.Country && doc.Riders && Array.isArray(doc.Riders)) {\r\n    var country = doc.Country;\r\n    var numRiders = doc.Riders.length;\r\n    \r\n    if (numRiders >= 0 && numRiders <= 10) {\r\n      emit([\"0-10 Riders\", country, numRiders], [country,numRiders]);\r\n    } else if (numRiders > 10 && numRiders <= 50) {\r\n      emit([\"10-50 Riders\", country, numRiders], [country,numRiders]);\r\n    } else if (numRiders > 50) {\r\n      emit([\"50+ Riders\", country, numRiders], [country,numRiders]);\r\n    }\r\n  }\r\n}",
+      "reduce": "function (keys, values, rereduce) {\n  if (rereduce) {\n    return sum(values);\n  } else {\n    return values.length;\n  }\n}"
+    },
+    "groupLevel2": {
+      "map": "function(doc) {\r\n  if (doc.Country && doc.Riders) {\r\n\r\n    doc.Riders.forEach(function(rider) {\r\n      var victories = Number(rider.Victories)\r\n      log(\"TEST DARRAGH\" + victories)\r\n      \r\n      emit([doc.Country, rider.name], victories);\r\n\r\n      emit([doc.Country, rider.name, parseInt(rider.Victories)],victories );\r\n     \r\n    });\r\n  }\r\n}",
+      "reduce": "function (keys, values, rereduce) {\n  if (rereduce) {\n   return sum(values)\n  } else {\n    return sum(values)\n  }\n}"
+    },
+    "groupLevel3": {
+      "reduce": "function(keys, values, rereduce) {\r\n  var result = {\r\n    \"Victories\": 0,\r\n    \"NumberofSecond\": 0,\r\n    \"NumberofThird\": 0,\r\n    \"Numberof4th\": 0,\r\n    \"Numberof5th\": 0,\r\n    \"Numberof6th\": 0\r\n  };\r\n\r\n  for (var i = 0; i < values.length; i++) {\r\n    result.Victories += values[i].Victories;\r\n    result.NumberofSecond += values[i].NumberofSecond;\r\n    result.NumberofThird += values[i].NumberofThird;\r\n    result.Numberof4th += values[i].Numberof4th;\r\n    result.Numberof5th += values[i].Numberof5th;\r\n    result.Numberof6th += values[i].Numberof6th;\r\n  }\r\n\r\n  return result;\r\n}\r\n",
+      "map": "function(doc) {\r\n  if (doc.Country && doc.Riders) {\r\n    for (var i = 0; i < doc.Riders.length; i++) {\r\n      var rider = doc.Riders[i];\r\n      emit([doc.Country, rider.name], {\r\n        \"Victories\": parseInt(rider.Victories) || 0,\r\n        \"NumberofSecond\": parseInt(rider.NumberofSecond) || 0,\r\n        \"NumberofThird\": parseInt(rider.NumberofThird) || 0,\r\n        \"Numberof4th\": parseInt(rider.Numberof4th) || 0,\r\n        \"Numberof5th\": parseInt(rider.Numberof5th) || 0,\r\n        \"Numberof6th\": parseInt(rider.Numberof6th) || 0\r\n      });\r\n    }\r\n  }\r\n}\r\n"
+    }
+  },
+  "language": "javascript"
+}
